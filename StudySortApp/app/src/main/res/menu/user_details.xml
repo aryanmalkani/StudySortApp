@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/optNotesBooks"
+        android:title="Notes | books"/>
+    <item android:id="@+id/optPuzzleGame"
+        android:title="Puzzle | Game"/>
+    <item android:id="@+id/optTimeManagtVideos"
+        android:title="Time Management Videos"/>
+    <item android:id="@+id/optMotivationVideos"
+        android:title="Motivational Videos"/>
+    <item android:id="@+id/optMindChangeVideos"
+        android:title="Mind Change Videos"/>
+    <item android:id="@+id/optNovel"
+        android:title="Novel"/>
+    <item android:id="@+id/optHRQnA"
+        android:title="HR Question Ans"/>
+    <item android:id="@+id/optMCQQuestion"
+        android:title="MCQ Questions"/>
+    <item android:id="@+id/optCounsellor"
+        android:title="Counsellor"/>
+    <item android:id="@+id/optUserParent"
+        android:title="Parent"
+        android:visible="false"/>
+    <item android:id="@+id/optUserAdmin"
+        android:title="Admin"
+        android:visible="false"/>
+    <item android:id="@+id/optAlarm"
+        android:title="Alarm"/>
+</menu>

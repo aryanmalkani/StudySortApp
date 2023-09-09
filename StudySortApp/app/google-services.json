@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252234697676",
+    "project_id": "studysortapp2",
+    "storage_bucket": "studysortapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252234697676:android:bba1a2a4c2e2f1005aab69",
+        "android_client_info": {
+          "package_name": "com.example.studysortapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252234697676-ntlvmnjkpptgv5oljhghvboei85e6n3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnS0yyZOaJ2grHvsH8twLXxcSYHk1EC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252234697676-ntlvmnjkpptgv5oljhghvboei85e6n3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
